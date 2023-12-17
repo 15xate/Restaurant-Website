@@ -7,6 +7,7 @@ body {
     background-color: #F1E0C5;
     color: #453F3C;
     line-height: 1.6;
+    padding: 20px;
 }
 
 header {
@@ -47,3 +48,4 @@ a {
     border-radius: 5px;
     transition: all 0.3s ease;
 }
+
